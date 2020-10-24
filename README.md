@@ -3,7 +3,7 @@
 </p>
 
 
-# Practicando HTML5 y CSS3
+# Web de noticias Técnologicas
 
 
 ### Hosteado en: 
